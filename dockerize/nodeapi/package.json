@@ -1,0 +1,19 @@
+{
+  "name": "nodeapi",
+  "version": "0.0.1",
+  "description": "Read image file, get features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "images"
+  ],
+  "author": "ok",
+  "license": "MIT",
+  "dependencies": {
+    "exifr": "^7.1.2",
+    "md5-file": "^5.0.0",
+    "pg": "^8.6.0"
+  }
+}
